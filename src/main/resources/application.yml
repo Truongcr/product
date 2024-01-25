@@ -1,6 +1,4 @@
-#
-#server:
-#  port: 9001
+
 #eureka:
 #  client:
 #    service-url:
@@ -25,7 +23,7 @@
 #
 spring:
   application:
-     name: app
+     name: product-service
 #  profiles:
 #     active: dev
 #  cloud:
